@@ -154,7 +154,7 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ashitosh Kuchekar**  
+**Ayush Kalamkar**  
 Data Analyst  
-📧 Email: ayushkalamkar41@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in//]([https://www.linkedin.com/in/ayush-kalamkar-9a0a67317])
+📧 Email: ashitoshkuchekar9@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/ayush-kalamkar-9a0a67317
