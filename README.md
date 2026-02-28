@@ -156,5 +156,5 @@ python scripts/get_vendor_summary.py
 
 **Ayush Kalamkar**  
 Data Analyst  
-📧 Email: ashitoshkuchekar9@gmail.com  
+📧 Email: ayushkalamkar41@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/ayush-kalamkar-9a0a67317
